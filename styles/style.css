@@ -53,21 +53,21 @@ body::-webkit-scrollbar-thumb {
 
 @font-face {
 	font-family: logo;
-	src: url("/assests/fonts/Narnia.woff2") format('woff2');
+	src: url("assests/fonts/Narnia.woff2") format('woff2');
 	font-weight: normal;
 	font-style: normal;
 }
 
 @font-face {
 	font-family: name;
-	src: url("/assests/fonts/Elmond.woff2") format('woff2');
+	src: url("assests/fonts/Elmond.woff2") format('woff2');
 	font-weight: normal;
 	font-style: normal;
 }
 
 @font-face {
 	font-family: nav;
-	src: url("/assests/fonts/gunterz-bold.woff2") format('woff2');
+	src: url("assests/fonts/gunterz-bold.woff2") format('woff2');
 	font-weight: normal;
 	font-style: normal;
 }
