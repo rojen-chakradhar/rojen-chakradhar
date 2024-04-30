@@ -433,6 +433,7 @@ nav i {
 	flex-direction: column;
 	row-gap: 20px;
 	font-size: 2vw;
+	z-index: 10;
 }
 
 #r #social a:first-child {
@@ -464,52 +465,118 @@ nav i {
 }
 
 #page4 {
+	height: auto;
 	display: flex;
 	row-gap: 5px;
 	align-items: center;
 	flex-direction: column;
 	justify-content: center;
 	padding: 5vw 0;
-	background-image: repeating-radial-gradient(
-		circle at center center,
-		rgb(31, 31, 31) 0px,
-		rgb(31, 31, 31) 33px,
-		rgb(26, 26, 26) 33px,
-		rgb(26, 26, 26) 79px,
-		rgb(20, 20, 20) 79px,
-		rgb(20, 20, 20) 88px
-	);
-	background-size: 56px 56px;
+	background-image: linear-gradient(
+			135deg,
+			rgba(49, 49, 49, 0.07) 0%,
+			rgba(49, 49, 49, 0.07) 12.5%,
+			rgba(76, 76, 76, 0.07) 12.5%,
+			rgba(76, 76, 76, 0.07) 25%,
+			rgba(102, 102, 102, 0.07) 25%,
+			rgba(102, 102, 102, 0.07) 37.5%,
+			rgba(129, 129, 129, 0.07) 37.5%,
+			rgba(129, 129, 129, 0.07) 50%,
+			rgba(155, 155, 155, 0.07) 50%,
+			rgba(155, 155, 155, 0.07) 62.5%,
+			rgba(182, 182, 182, 0.07) 62.5%,
+			rgba(182, 182, 182, 0.07) 75%,
+			rgba(208, 208, 208, 0.07) 75%,
+			rgba(208, 208, 208, 0.07) 87.5%,
+			rgba(235, 235, 235, 0.07) 87.5%,
+			rgba(235, 235, 235, 0.07) 100%
+		),
+		linear-gradient(
+			45deg,
+			rgba(5, 5, 5, 0.07) 0%,
+			rgba(5, 5, 5, 0.07) 12.5%,
+			rgba(39, 39, 39, 0.07) 12.5%,
+			rgba(39, 39, 39, 0.07) 25%,
+			rgba(73, 73, 73, 0.07) 25%,
+			rgba(73, 73, 73, 0.07) 37.5%,
+			rgba(107, 107, 107, 0.07) 37.5%,
+			rgba(107, 107, 107, 0.07) 50%,
+			rgba(141, 141, 141, 0.07) 50%,
+			rgba(141, 141, 141, 0.07) 62.5%,
+			rgba(175, 175, 175, 0.07) 62.5%,
+			rgba(175, 175, 175, 0.07) 75%,
+			rgba(209, 209, 209, 0.07) 75%,
+			rgba(209, 209, 209, 0.07) 87.5%,
+			rgba(243, 243, 243, 0.07) 87.5%,
+			rgba(243, 243, 243, 0.07) 100%
+		),
+		linear-gradient(90deg, #ffffff, #ffffff);
 }
 
 #page4 h1 {
 	margin: 2vw 0 2vw;
 	font-size: 5vw;
 	text-transform: capitalize;
-	color: var(--white);
+	color: var(--black);
 }
 
 .project {
-	height: 10vw;
+	height: 150px;
 	width: 100%;
-	border-bottom: 1px solid;
 	text-align: center;
-	background-color: var(--black);
-	background-image: repeating-linear-gradient(
-			0deg,
-			rgb(17, 17, 17) 0px,
-			rgb(17, 17, 17) 1px,
-			transparent 1px,
-			transparent 51px
+	background-image: linear-gradient(
+			112.5deg,
+			rgb(214, 214, 214) 0%,
+			rgb(214, 214, 214) 10%,
+			rgb(195, 195, 195) 10%,
+			rgb(195, 195, 195) 53%,
+			rgb(176, 176, 176) 53%,
+			rgb(176, 176, 176) 55%,
+			rgb(157, 157, 157) 55%,
+			rgb(157, 157, 157) 60%,
+			rgb(137, 137, 137) 60%,
+			rgb(137, 137, 137) 88%,
+			rgb(118, 118, 118) 88%,
+			rgb(118, 118, 118) 91%,
+			rgb(99, 99, 99) 91%,
+			rgb(99, 99, 99) 100%
 		),
-		repeating-linear-gradient(
-			90deg,
-			rgb(17, 17, 17) 0px,
-			rgb(17, 17, 17) 1px,
-			transparent 1px,
-			transparent 51px
+		linear-gradient(
+			157.5deg,
+			rgb(214, 214, 214) 0%,
+			rgb(214, 214, 214) 10%,
+			rgb(195, 195, 195) 10%,
+			rgb(195, 195, 195) 53%,
+			rgb(176, 176, 176) 53%,
+			rgb(176, 176, 176) 55%,
+			rgb(157, 157, 157) 55%,
+			rgb(157, 157, 157) 60%,
+			rgb(137, 137, 137) 60%,
+			rgb(137, 137, 137) 88%,
+			rgb(118, 118, 118) 88%,
+			rgb(118, 118, 118) 91%,
+			rgb(99, 99, 99) 91%,
+			rgb(99, 99, 99) 100%
 		),
-		linear-gradient(90deg, hsl(49, 0%, 3%), hsl(49, 0%, 3%));
+		linear-gradient(
+			135deg,
+			rgb(214, 214, 214) 0%,
+			rgb(214, 214, 214) 10%,
+			rgb(195, 195, 195) 10%,
+			rgb(195, 195, 195) 53%,
+			rgb(176, 176, 176) 53%,
+			rgb(176, 176, 176) 55%,
+			rgb(157, 157, 157) 55%,
+			rgb(157, 157, 157) 60%,
+			rgb(137, 137, 137) 60%,
+			rgb(137, 137, 137) 88%,
+			rgb(118, 118, 118) 88%,
+			rgb(118, 118, 118) 91%,
+			rgb(99, 99, 99) 91%,
+			rgb(99, 99, 99) 100%
+		),
+		linear-gradient(90deg, rgb(195, 195, 195), rgb(228, 228, 228));
+	background-blend-mode: overlay, overlay, overlay, normal;
 }
 
 footer {
@@ -520,37 +587,58 @@ footer {
 	justify-content: center;
 	row-gap: 2vw;
 	padding: 2vw;
-	background-image: radial-gradient(
-			circle at center center,
-			transparent,
-			rgb(33, 33, 33)
+	background-image: linear-gradient(
+			216deg,
+			rgba(77, 77, 77, 0.05) 0%,
+			rgba(77, 77, 77, 0.05) 25%,
+			rgba(42, 42, 42, 0.05) 25%,
+			rgba(42, 42, 42, 0.05) 38%,
+			rgba(223, 223, 223, 0.05) 38%,
+			rgba(223, 223, 223, 0.05) 75%,
+			rgba(36, 36, 36, 0.05) 75%,
+			rgba(36, 36, 36, 0.05) 100%
 		),
-		repeating-linear-gradient(
-			135deg,
-			rgb(33, 33, 33) 0px,
-			rgb(33, 33, 33) 2px,
-			transparent 2px,
-			transparent 10px,
-			rgb(33, 33, 33) 10px,
-			rgb(33, 33, 33) 11px,
-			transparent 11px,
-			transparent 21px
+		linear-gradient(
+			44deg,
+			rgba(128, 128, 128, 0.05) 0%,
+			rgba(128, 128, 128, 0.05) 34%,
+			rgba(212, 212, 212, 0.05) 34%,
+			rgba(212, 212, 212, 0.05) 57%,
+			rgba(25, 25, 25, 0.05) 57%,
+			rgba(25, 25, 25, 0.05) 89%,
+			rgba(135, 135, 135, 0.05) 89%,
+			rgba(135, 135, 135, 0.05) 100%
 		),
-		repeating-linear-gradient(
-			45deg,
-			rgb(47, 47, 47) 0px,
-			rgb(47, 47, 47) 4px,
-			transparent 4px,
-			transparent 8px
+		linear-gradient(
+			241deg,
+			rgba(55, 55, 55, 0.05) 0%,
+			rgba(55, 55, 55, 0.05) 14%,
+			rgba(209, 209, 209, 0.05) 14%,
+			rgba(209, 209, 209, 0.05) 60%,
+			rgba(245, 245, 245, 0.05) 60%,
+			rgba(245, 245, 245, 0.05) 69%,
+			rgba(164, 164, 164, 0.05) 69%,
+			rgba(164, 164, 164, 0.05) 100%
 		),
-		linear-gradient(90deg, rgb(33, 33, 33), rgb(33, 33, 33));
+		linear-gradient(
+			249deg,
+			rgba(248, 248, 248, 0.05) 0%,
+			rgba(248, 248, 248, 0.05) 32%,
+			rgba(148, 148, 148, 0.05) 32%,
+			rgba(148, 148, 148, 0.05) 35%,
+			rgba(202, 202, 202, 0.05) 35%,
+			rgba(202, 202, 202, 0.05) 51%,
+			rgba(181, 181, 181, 0.05) 51%,
+			rgba(181, 181, 181, 0.05) 100%
+		),
+		linear-gradient(92deg, hsl(214, 0%, 11%), hsl(214, 0%, 11%));
 }
 
 footer h1 {
 	margin-bottom: 2vw;
 	text-transform: capitalize;
 	font-size: 2.5vw;
-	color: var(--white);
+	color: var(--black);
 }
 
 footer #contact {
@@ -563,10 +651,15 @@ footer #contact {
 
 footer #contact a {
 	text-decoration: underline;
-	color: var(--white);
+	color: var(--black);
+	transition: color 0.2s ease;
 }
 
-footer #socials {
+footer #contact a:hover {
+	color: #efefef;
+}
+
+footer #social {
 	display: flex;
 	align-content: inherit;
 	justify-content: center;
@@ -574,6 +667,23 @@ footer #socials {
 	font-size: 2vw;
 }
 
-footer #socials a i {
+footer #social a i {
+	color: var(--black);
+	transition: color 0.2s ease;
+}
+
+footer #social a i:hover {
 	color: var(--white);
+}
+
+footer #social .yt:hover {
+	color: var(--red);
+}
+
+footer #social .fb:hover {
+	color: var(--blue);
+}
+
+footer #social .li:hover {
+	color: var(--darkblue);
 }
