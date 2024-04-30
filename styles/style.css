@@ -32,7 +32,6 @@ body {
 		rgb(20, 20, 20) 88px
 	);
 	background-size: 56px 56px;
-	overflow: hidden;
 }
 
 body::-webkit-scrollbar {
@@ -44,11 +43,6 @@ body::-webkit-scrollbar {
 body::-webkit-scrollbar-thumb {
 	border-radius: 2px;
 	background-color: var(--black);
-}
-
-/* Hide Locomotive Scroll's scrollbar */
-[data-scroll-container]::-webkit-scrollbar {
-	display: none;
 }
 
 @font-face {
