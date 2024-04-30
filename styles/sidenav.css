@@ -1,0 +1,145 @@
+#sidenav {
+	position: fixed;
+	top: 0;
+	right: -25vw;
+	height: 100vh;
+	width: 22vw;
+	display: flex;
+	flex-direction: column;
+	row-gap: 2.8vw;
+	padding: 2vw 0;
+	border-left: 1px solid var(--black);
+	box-shadow: 0 0 15px #00000020, 0 0 15px #00000020;
+	background-color: var(--white);
+	background-image: repeating-radial-gradient(
+			circle at center center,
+			transparent 0px,
+			transparent 13px,
+			rgba(0, 0, 0, 0.03) 13px,
+			rgba(0, 0, 0, 0.03) 24px,
+			transparent 24px,
+			transparent 62px,
+			rgba(0, 0, 0, 0.03) 62px,
+			rgba(0, 0, 0, 0.03) 96px
+		),
+		repeating-radial-gradient(
+			circle at center center,
+			rgb(255, 255, 255) 0px,
+			rgb(255, 255, 255) 14px,
+			rgb(255, 255, 255) 14px,
+			rgb(255, 255, 255) 18px,
+			rgb(255, 255, 255) 18px,
+			rgb(255, 255, 255) 28px,
+			rgb(255, 255, 255) 28px,
+			rgb(255, 255, 255) 32px
+		);
+	background-size: 21px 21px;
+	transition: right 1s ease;
+	z-index: 20;
+}
+
+#sidenav ul {
+	display: flex;
+	flex-direction: column;
+	row-gap: 2.5vw;
+}
+
+#sidenav ul i {
+	margin-left: 17vw;
+	margin-bottom: 1.3vw;
+	font-size: 2vw;
+	cursor: pointer;
+}
+
+#sidenav ul a li {
+	display: block;
+	padding: 0 2vw;
+	font-family: nav;
+	font-size: 2.5vw;
+	text-transform: uppercase;
+	color: var(--black);
+	transition: color 0.2s ease, background-color 0.5s ease;
+}
+
+#sidenav ul li:hover {
+	color: var(--white);
+	background-color: var(--black);
+	background-image: radial-gradient(
+			circle 5px at top left,
+			rgba(226, 226, 226, 0.1) 0%,
+			rgba(226, 226, 226, 0.1) 50%,
+			rgba(201, 201, 201, 0.1) 50%,
+			rgba(201, 201, 201, 0.1) 30%,
+			transparent 30%,
+			transparent 50%
+		),
+		linear-gradient(90deg, rgb(51, 51, 51), rgb(51, 51, 51));
+	background-size: 11px 11px;
+}
+
+#sidenav ul a li span {
+	font-family: name;
+	font-size: 3vw;
+	font-weight: bolder;
+}
+
+#sidenav ol {
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	padding: 0 5vw;
+}
+
+#sidenav ol a li {
+	font-size: 2vw;
+	color: var(--black);
+}
+
+.ig {
+	transition: all 0.2s ease;
+}
+
+.yt {
+	transition: color 0.2s ease;
+}
+
+.ig:hover {
+	background: linear-gradient(
+		to top right,
+		#ffdf9e,
+		#ffc273,
+		#e56969,
+		#c1558b,
+		#8a49a1,
+		#4f5bd5,
+		#962fbf
+	);
+	-webkit-background-clip: text;
+	background-clip: text;
+	-webkit-text-fill-color: transparent;
+}
+
+.yt:hover {
+	color: var(--red);
+}
+
+.fb {
+	transition: color 0.2s ease;
+}
+
+.fb:hover {
+	color: var(--blue);
+}
+
+.li {
+	transition: color 0.2s ease;
+}
+
+.li:hover {
+	color: var(--darkblue);
+}
+
+.page {
+	height: 100vh;
+	width: 100%;
+}
