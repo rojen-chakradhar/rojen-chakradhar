@@ -54,7 +54,7 @@
 #sidenav ul a li {
 	display: block;
 	padding: 0 2vw;
-	font-family: nav;
+	font-family: 'nav';
 	font-size: 2.5vw;
 	text-transform: uppercase;
 	color: var(--black);
@@ -78,7 +78,7 @@
 }
 
 #sidenav ul a li span {
-	font-family: name;
+	font-family: 'name';
 	font-size: 3vw;
 	font-weight: bolder;
 }

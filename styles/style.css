@@ -52,17 +52,17 @@ body::-webkit-scrollbar-thumb {
 }
 
 @font-face {
-	font-family: logo;
+	font-family: 'logo';
 	src: url("https://rojen-chakradhar.github.io/rojen-chakradhar/assests/fonts/Narnia.woff2") format('woff2');
 }
 
 @font-face {
-	font-family: name;
+	font-family: 'name';
 	src: url("https://rojen-chakradhar.github.io/rojen-chakradhar/assests/fonts/Elmond.woff2") format('woff2');
 }
 
 @font-face {
-	font-family: nav;
+	font-family: 'nav';
 	src: url("https://rojen-chakradhar.github.io/rojen-chakradhar/assests/fonts/gunterz-bold.woff2") format('woff2');
 }
 
@@ -88,7 +88,7 @@ nav {
 }
 
 nav h1 {
-	font-family: logo;
+	font-family: 'logo';
 	font-size: 2.5vw;
 	color: var(--black);
 	transition: color 0.1s ease;
@@ -161,7 +161,7 @@ nav i {
 #sidenav ul a li {
 	display: block;
 	padding: 0 2vw;
-	font-family: nav;
+	font-family: 'nav';
 	font-size: 2.5vw;
 	text-transform: uppercase;
 	color: var(--black);
@@ -185,7 +185,7 @@ nav i {
 }
 
 #sidenav ul a li span {
-	font-family: name;
+	font-family: 'name';
 	font-size: 3vw;
 	font-weight: bolder;
 }
@@ -281,7 +281,7 @@ nav i {
 	justify-content: center;
 	flex-direction: column;
 	text-wrap: nowrap;
-	font-family: nav;
+	font-family: 'nav';
 	line-height: 10vw;
 	font-size: 7vw;
 	cursor: default;
