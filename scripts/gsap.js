@@ -45,11 +45,11 @@ nav.from("#page1 #tt", {
 });
 nav.from("#page1 #t", {
 	duration: 1,
-	x: 1200,
+	x: 1300,
 });
 nav.from("#page1 #m", {
 	duration: 1,
-	x: -1200,
+	x: -1300,
 });
 nav.from("#page1 #b", {
 	duration: 1,
