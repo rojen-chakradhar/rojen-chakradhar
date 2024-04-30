@@ -37,7 +37,7 @@ body {
 body::-webkit-scrollbar {
 	width: 0.8vw;
 	border-radius: 2px;
-	background-color: #555;
+	background-color: #00000010;
 }
 
 body::-webkit-scrollbar-thumb {
