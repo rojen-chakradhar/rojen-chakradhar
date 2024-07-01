@@ -414,7 +414,7 @@ nav i {
 }
 
 #l #owners p:before {
-	content: "owners";
+	content: "education";
 	position: absolute;
 	top: -0.5vw;
 	font-size: 1vw;
@@ -638,7 +638,7 @@ footer h1 {
 	margin-bottom: 2vw;
 	text-transform: capitalize;
 	font-size: 2.5vw;
-	color: var(--black);
+	color: var(--white);
 }
 
 footer #contact {
@@ -651,7 +651,7 @@ footer #contact {
 
 footer #contact a {
 	text-decoration: underline;
-	color: var(--black);
+	color: var(--white);
 	transition: color 0.2s ease;
 }
 
@@ -668,7 +668,7 @@ footer #social {
 }
 
 footer #social a i {
-	color: var(--black);
+	color: var(--white);
 	transition: color 0.2s ease;
 }
 
