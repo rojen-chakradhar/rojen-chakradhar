@@ -12,7 +12,7 @@ I've got a bunch of projects, but my favrouite is the [Daydream Parkour](https:/
 
 I've built over 15 public repos, but privately... it's probably more than 20 at this point.
 
-If you want to see my projects, visit my [![portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://rojen-porttfolio.netlify.app/).
+If you want to see my projects, visit my [![portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://rojen-portfolio.netlify.app/).
 
 If you wanna contact me, you can dm me on [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rojen.007) or [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rojenchakradhar/)
 
