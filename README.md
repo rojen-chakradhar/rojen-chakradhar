@@ -12,12 +12,13 @@ Im currently working on a 2d platformer game. Its my goal to finish it and let p
 <br><br>
 My main tech stack are react, javascript, tailwind, GSAP, GDscript, and HTML and CSS. My favrouite tools are figma, chatgpt, and my favourite game engine is godot.
 <br><br>
-Ive got a bunch of projects, but my favrouite is the [Daydream Parkour](https://rojenrandom.itch.io/daydream-parkour).
+Ive got a bunch of projects, but my favrouite is the <a href="https://rojenrandom.itch.io/daydream-parkour" target="_blank">Daydream Parkour</a>.
 <br><br>
 Ive built over 15 public repos, but privately... it's probably more than 40 at this point.
 <br><br>
-If you want to see my projects, visit my [![portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://rojen-portfolio.netlify.app/).
+If you want to see my projects, visit my <a href="https://rojen-portfolio.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white"></a>.
 <br><br>
-If you wanna contact me, you can dm me on [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rojen.007) or [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rojenchakradhar/)
+If you wanna contact me, you can dm me on 
+<a href="https://www.instagram.com/rojen.007" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a> or <a href="https://www.linkedin.com/in/rojenchakradhar/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <br><br>
-- My **Hobbies** are: Drawing, Doing creative things, Eating, Playing and making games, Building things
+- My Hobbies are: Drawing, Doing creative things, Eating, Playing and making games, Building things
