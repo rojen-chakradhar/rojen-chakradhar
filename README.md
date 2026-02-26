@@ -1,41 +1,42 @@
-<img width="900" height="82" alt="banner" src="https://github.com/user-attachments/assets/d3b4121c-68a7-44c1-928d-61cf6672b186" />
-<br><br>
-Im a UI/UX and Game Developer based in Nepal.
-<br><br>
-I design and build whatever I can imagine and want to make.
-<br><br>
-If an idea pops into my head, I work on it and chances are Ill ship it.
-<br><br>
-Im currently learning advance web dev and game dev.
-<br><br>
-Im currently working on a 2d platformer game. Its my goal to finish it and let people enjoy. It is taking alot of time but I will try by best to complete it by end of this year.
-<br><br>
-My main tech stack are react, javascript, tailwind, GSAP, GDscript, and HTML and CSS. My favrouite tools are figma, chatgpt, and my favourite game engine is godot.
-<br><br>
-<h3>Skills:</h3>
-<img width="100" height="100" alt="html" src="https://github.com/user-attachments/assets/8363eb92-b3bd-4f68-9de6-69a01f0dd9b1">
-<img width="100" height="100" alt="css" src="https://github.com/user-attachments/assets/cbed01b3-5c4b-4f7d-a63f-19811a5e30b4">
-<img width="100" height="100" alt="js" src="https://github.com/user-attachments/assets/07cb20a6-9fe9-4165-b8b4-9be3971ad4b5">
-<img width="100" height="100" alt="react.js" src="https://github.com/user-attachments/assets/bd2721a3-47cf-482c-95a0-c4724f717c74">
-<img width="100" height="100" alt="tailwind" src="https://github.com/user-attachments/assets/0ef5bb6e-fcd0-4ce6-9e69-554cedd9a19c">
-<img width="100" height="100" alt="gsap" src="https://github.com/user-attachments/assets/cc490b68-a9a0-4177-aeb0-ea997a9e31ad">
-<strong>Locomotive.js</strong>
-<img width="100" height="100" alt="aos" src="https://github.com/user-attachments/assets/3147c841-084b-45f9-94b9-529ed5cc5ce8">
-<img width="100" height="100" alt="github" src="https://github.com/user-attachments/assets/7df7554f-cbd5-4d70-b70f-4120a21b9321">
-<img width="100" height="100" alt="figma" src="https://github.com/user-attachments/assets/957a4489-6caf-4fb8-a89e-3a7bae4532dc">
-<img width="100" height="100" alt="godot" src="https://github.com/user-attachments/assets/41f8be3b-95c8-486d-910e-38e6eff217fe">
-<img width="100" height="100" alt="gd script" src="https://github.com/user-attachments/assets/2a6ac1db-3542-42fd-89aa-3f044bee7977">
-<img width="100" height="100" alt="canva" src="https://github.com/user-attachments/assets/9f740e54-5693-4f41-8bba-527b71b7a134">
-<img width="100" height="100" alt="libresprite" src="https://github.com/user-attachments/assets/6378ccef-5411-41ea-b513-ec31edb9cf1f">
-<img width="100" height="100" alt="capcut" src="https://github.com/user-attachments/assets/45551e27-60d0-425c-941b-3e52f20aae4e">
-<br><br>
-Ive got a bunch of projects, but my favrouite is the <a href="https://rojenrandom.itch.io/daydream-parkour" target="_blank">Daydream Parkour</a>.
-<br><br>
-Ive built over 15 public repos, but privately... it's probably more than 40 at this point.
-<br><br>
-If you want to see my projects, visit my <a href="https://rojen-portfolio.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white"></a>.
-<br><br>
-<h3>Contacts:</h3>
-<a href="https://www.instagram.com/rojen.007" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a><a href="https://www.linkedin.com/in/rojenchakradhar/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<br><br>
-- My Hobbies are: Drawing, Doing creative things, Eating, Playing and making games, Building things
+<img width="900" height="80" alt="banner" src="https://github.com/user-attachments/assets/e8a3e441-d53a-4d10-ae16-ac121daaf07a" />
+<p><strong>UI/UX Designer • Game Developer</strong></p><hr>
+<p>I build interactive systems from imagination to execution.</p>
+<p>Focused on crafting clean interface, smooth motion, and engaging gameplay experiences.</p>
+<p>Currenty learning advance web deveopment and 2D game development.</p>
+<hr>
+<h2>Tech Stack</h2>
+<img width="96px" alt="html" src="https://github.com/user-attachments/assets/eaf5f09b-d175-42bd-8603-48a7de3456f7"> <img width="96" alt="css" src="https://github.com/user-attachments/assets/c6a6c501-2215-46de-9f86-fafd381a50f7"> <img width="96" alt="javascript" src="https://github.com/user-attachments/assets/04ededed-2a4d-4272-9603-a61f40b75204"> <img width="96" alt="react" src="https://github.com/user-attachments/assets/4c82efa3-f1ab-441a-be97-8e76c43d5651"> <img width="96" alt="tailwind" src="https://github.com/user-attachments/assets/94c705c2-11dc-4c13-9452-0f1ceae46327"> <img width="96" alt="GSAP" src="https://github.com/user-attachments/assets/51afc64a-17f8-4016-87cf-b90ed31758b9"> <img width="96" alt="Locomotive" src="https://github.com/user-attachments/assets/a0942475-930c-4260-b061-6f71fc32fae1"> <img width="96" alt="AOS" src="https://github.com/user-attachments/assets/8795fa2b-0d9b-49df-aab9-5b854e8b62d3"> <img width="96" alt="GDScript" src="https://github.com/user-attachments/assets/6cf53477-2483-43fb-b0ef-ef497ab279e9">
+<hr>
+<h2>Tools</h2>
+<img width="96" alt="Visual Studio Code" src="https://github.com/user-attachments/assets/d75d7856-a610-4053-ae2b-931c0c8e2fb6"> <img width="96" alt="Github" src="https://github.com/user-attachments/assets/dc81620a-0c38-4fc6-abda-24a07a0d460c"> <img width="96" alt="Figma" src="https://github.com/user-attachments/assets/dbb4ed10-e95d-41dc-b97b-55a997a38f53"> <img width="96" alt="Canva" src="https://github.com/user-attachments/assets/bbda7ba9-8a4c-4b16-8c50-a5feda8060e8"> <img width="96" alt="Godot" src="https://github.com/user-attachments/assets/0d8402f6-33e2-4df8-9de1-2aa22da85a9a"> <img width="96" alt="LibreSprite" src="https://github.com/user-attachments/assets/7e5035a2-8c25-4954-b2d2-3b1dbcc85c29">
+<hr>
+<h2>Featured Project</h2>
+<p><strong>Portfolio</strong> <a href="https://rojen-portfolio.netlify.app" target="_blank">[click here to see!]</a></p>
+<p><strong>My Space</strong> <a href="https://rojen-space.netlify.app" target="_blank">[click here to see!]</a></p>
+<p><strong>Daydream Parkour</strong> <a href="https://rojenrandom.itch.io/daydream-parkour" target="_blank">[click here to play!]</a></p>
+<hr>
+<h2>Explore</h2>
+<ul>
+<li><a href="https://rojen-portfolio.netlify.app" target="_blank">Portfolio</a></li>
+<li><a href="https://instagram.com/rojen.007" target="_blank">Instagram</a></li>
+<li><a href="https://linkedin.com/in/rojenchakradhar/" target="_blank">Linkedin</a></li>
+<li><a href="https://rojenrandom.itch.io/" target="_blank">Itch.io</a></li>
+<li><a href="https://youtube.com/@rojen.random" target="_blank">Youtube</a></li>
+<li><a href="https://bsky.app/profile/rojen07.bsky.social" target="_blank">Bluesky</a></li>
+</ul>
+<hr>
+<h2>Connect</h2>
+<ul>
+<li><a href="mailto:rojenchakradhar72@gmail.com" target="_blank">Email</a></li>
+<li><a href="https://instagram.com/rojen.007" target="_blank">Instagram</a></li>
+<li><a href="https://linkedin.com/in/rojenchakradhar/" target="_blank">Linkedin</a></li>
+<li><a href="https://bsky.app/profile/rojen07.bsky.social" target="_blank">Bluesky</a></li>
+</ul>
+<hr>
+<h2>Beyond the Code</h2>
+<ul>
+<li>Drawing</li>
+<li>Game Design</li>
+<li>Visual Systems</li>
+<li>Creative Experimentation</li>
+</ul>
